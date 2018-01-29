@@ -1,0 +1,2 @@
+{radiofreak}YES{radiofreak}
+{server}http://www.sparrowtech.org{server}
