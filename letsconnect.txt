@@ -1,1 +1,2 @@
-{letsconnect}YES{letsconnect}
+{letsconnect}NO{letsconnect}
+{letsconnectdev}YES{letsconnectdev}
