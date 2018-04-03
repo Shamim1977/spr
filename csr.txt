@@ -1,1 +1,1 @@
-{csr}https://www.weglares.com/csr{csr}
+{csr}http://www.weglare.com/csr{csr}
