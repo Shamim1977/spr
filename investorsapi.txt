@@ -1,1 +1,1 @@
-{APIROOT}https://www.sparrowtech.org/investors{APIROOT}
+{APIROOT}https://www.sparrowtech.org/investorsapi{APIROOT}
